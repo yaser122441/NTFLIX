@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NTFLIX/static/css/main.17fc314e.css",
+    "main.js": "/NTFLIX/static/js/main.5b5e6397.js",
+    "static/js/787.440c4889.chunk.js": "/NTFLIX/static/js/787.440c4889.chunk.js",
+    "static/media/Nlogo.png": "/NTFLIX/static/media/Nlogo.d5a39947f7882596e517.png",
+    "index.html": "/NTFLIX/index.html",
+    "main.17fc314e.css.map": "/NTFLIX/static/css/main.17fc314e.css.map",
+    "main.5b5e6397.js.map": "/NTFLIX/static/js/main.5b5e6397.js.map",
+    "787.440c4889.chunk.js.map": "/NTFLIX/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fc314e.css",
+    "static/js/main.5b5e6397.js"
+  ]
+}
